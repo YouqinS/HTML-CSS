@@ -1,0 +1,27 @@
+ul
+{ list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li a
+{ font-variant: small-caps;
+  text-decoration: none;
+  background-color: lightgrey;
+  color: blue;
+  display: block; 
+  width: 10%;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+  border: solid 1px black;
+  
+}
+
+ul li a:hover
+{ background-color: darkgrey;
+  color: white;
+  cursor: url(bird.png), default;
+}

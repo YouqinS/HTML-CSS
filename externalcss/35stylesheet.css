@@ -1,0 +1,44 @@
+body
+{ background-image: url(weather.gif);
+  background-attachment: fixed;
+}
+
+
+p
+{ background-color: red;
+  color: white;
+  
+}
+
+div
+{ background-color: black;
+  color: white;
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 250px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

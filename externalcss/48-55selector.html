@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html>
+
+ <head> 
+       <title> SELECTOR </title>
+       
+       <link href="48stylesheet.css" rel="stylesheet" type="text/css">
+       
+       <meta charset="UTF-8">
+       
+       <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+ 
+ </head>
+
+ <body>
+       <a href="https://www.w3schools.com/cssref/css_selectors.asp"> Link to css selectors </a> <br>
+ 
+  . : to select class element <br>
+  # : to select ID element <br>
+  , : to select multiple elements / combine selectors (e.g. h1, h2, .para, #list) <br> 
+  space : to select descendent element (e.g. div p ) <br>
+  element > element : ( e.g. div > p) 	Selects all p elements where the parent is a div element <br>
+  * 	Selects all elements <br>
+  element+element: ( e.g. div + p) Selects all p elements that are placed immediately after div elements. <br>
+  element1~element2 	(p ~ ul) 	Selects every ul element that are preceded by a p element <br>
+  [attribute] :	e.g. [target] 	: Selects all elements with a target attribute <br>
+  [attribute=value] :	e.g. 	[target=_blank] 	: Selects all elements with target="_blank" <br>
+  [attribute~=value] :	e.g. 	[title~=flower] 	: Selects all elements with a title attribute containing the word "flower" <br>
+  [attribute|=value]  :	e.g. 	[lang|=en] 	: Selects all elements with a lang attribute value starting with "en" <br>
+  [attribute^=value] :	e.g. 	a[href^="https"] 	Selects every < a > element whose href attribute value begins with "https" <br>
+  [attribute$=value] :	e.g. 	a[href$=".pdf"] 	Selects every < a > element whose href attribute value ends with ".pdf" <br>
+  [attribute*=value] :	e.g. 	a[href*="w3schools"] Selects every < a > element whose href attribute value contains the substring "w3schools" <br>
+  :nth-child(n) :	e.g. 	p:nth-child(2) 	Selects every < p > element that is the second child of its parent <br>
+  :nth-last-child(n) :	e.g. 	p:nth-last-child(2) 	Selects every < p > element that is the second child of its parent, counting from the last child<br>
+  :not(selector) :	e.g. 	:not(p) 	Selects every element that is not a < p > element. <br>
+  ::first-letter :	e.g. 	p::first-letter 	Selects the first letter of every < p > element <br>
+  ::first-line 	p::first-line 	Selects the first line of every < p > element <br>
+  
+  
+  
+  
+       
+ 
+ 
+ 
+ </body>
+
+</html>

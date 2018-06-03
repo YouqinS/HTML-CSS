@@ -1,0 +1,23 @@
+body
+{ background-color: lightgrey;
+  margin: 0;
+  font-family: Verdana, Georgia, serif;
+  font-size: 14px;
+
+}
+
+#header
+{ background-color: darkgrey;
+  margin: 10px;
+  height: 90px;
+  border-radius: 5px;
+
+}
+
+#navbar
+{ background-color: darkgrey;
+  margin: 10px;
+  height: 35px;
+  border-radius: 5px;
+
+}

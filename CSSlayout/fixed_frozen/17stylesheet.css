@@ -1,0 +1,81 @@
+
+
+/* == layout section == */
+
+body
+{ margin:0;
+}
+
+
+#container
+{ width: 968px;
+  margin: 0 auto;
+  
+ 
+}
+
+
+#header
+{ background-color: darkgrey;
+  height: 90px;
+  width: 968px;
+  
+
+}
+
+
+
+#navbar
+{ background-color: darkslategray;
+  height: 35px;
+  width: 968px;
+  
+
+}
+
+
+.sidebarleft
+{ float: left;
+  background-color: #b3cccc;
+  width: 180px;
+  height: 960px;
+  
+  
+  
+  
+}
+
+.main
+{ float: left;
+  background-color: #e0ebeb;
+  width: 788px;
+  height: 960px;
+  
+ 
+}
+
+#footer
+{ width: 968px;
+  height: 60px;
+  position: relative;
+  top: 960px;
+  background-color:darkgray; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

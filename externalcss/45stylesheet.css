@@ -1,0 +1,26 @@
+.hilight{  
+      
+background-color: red;
+display: inline;
+height: 50px;
+width: 180px;
+       
+}
+
+.test{
+
+background-color: yellow;
+display: block;
+height: 50px;
+width: 180px;
+
+}
+
+.text{
+
+background-color: blue;
+display: inline-block;
+height: 50px;
+width: 180px;
+
+}

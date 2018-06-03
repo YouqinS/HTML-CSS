@@ -1,0 +1,30 @@
+
+
+ body
+  { color: green; 
+	 font-family: Verdana,Arial,Geneva,Arial Black;Arial Black; 
+  }
+	       
+	h1
+	 { color: pink; background-color: lightblue;
+		border-bottom: 5px solid black; 
+		font-weight: bolder;
+	 }
+			  
+	h2
+	{ font-weight: bold;
+	} 
+	 
+	p
+	{ color: blue; 
+	  font-weight: lighter;
+	}
+	       
+  .purple
+	{ color: purple;
+	}
+			 
+	.underline
+	{ text-decoration: underline;
+	}
+			 

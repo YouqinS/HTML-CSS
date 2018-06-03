@@ -1,0 +1,14 @@
+
+figcaption: { 
+              color: gray;
+              background-color: red;
+              }
+figure:{ background-color: blue;
+			border-color: red;
+			padding: 10 px; 
+			float: right;
+}
+  body 
+  {
+     background-color: beige;  
+  }

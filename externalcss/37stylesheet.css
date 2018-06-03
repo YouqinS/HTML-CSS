@@ -1,0 +1,42 @@
+
+
+
+
+a 
+{ color: red;
+  font-size: 1.5em;
+  font-weight: bolder;
+  font-variant: small-caps;
+  cursor: pointer;
+}
+
+div.main2
+{ background-color: white;
+  color: blue;
+  border-radius: 5px;
+  cursor: url(icon1.png), default;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,52 @@
+#container {
+	border: 1px dotted;
+	width:602px;
+	height: 240px;
+	overflow:auto;
+	position: relative;
+	
+}
+
+#d_yellow, #d_red, #d_blue, #d_black, #d_green {
+  	width: 80px;
+	height: 80px;  
+}
+
+#d_yellow {
+	background-color: yellow;
+	position: relative;
+	top: calc(50% - 40px);
+	left: calc(50% - 40px);
+		
+}
+
+#d_red {
+    background-color: red;
+    float: right;
+}
+
+#d_blue {
+	background-color: blue;	
+	float: left;
+}
+
+#d_black {
+	background-color: black;
+	float:right;
+	position: relative;
+	top: 80px;
+
+	
+}
+
+#d_green {
+	background-color: green;
+	float: left;
+	position: relative;
+	top: 80px;
+	
+	
+}
+
+
+

@@ -1,0 +1,36 @@
+.nav
+{ background-color: lightgrey;
+  height: 25px;
+  line-height: 25px;
+  
+ 
+}
+
+
+
+.nav ul
+{ list-style: none;
+   
+}
+
+.nav ul li
+{ display: inline;
+  
+  
+}
+
+.nav ul li a
+{ color: blue;
+  text-decoration: none;
+  margin: 5px;
+  padding: 5px;
+  font-variant: small-caps;
+  
+}
+
+.nav ul li a:hover
+{ color: white;
+  background-color: darkgrey;
+  cursor: url(icon1.png), default;
+}
+
