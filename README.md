@@ -1,2 +1,2 @@
 # HTML-CSS
-FirstYearIT_SchoolProjects
+Learning HTML-CSS
